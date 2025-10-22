@@ -33,4 +33,4 @@ The system integrates multiple AI modules:
 ## Contact
 Created by [Erlan Koishigarin](https://github.com/Erlan2710)  
 Email: erlankoishigarin@gmail.com  
-Telegram: [@erlan2710](https://t.me/erlan2710)
+Telegram: [@Erlan2710](https://t.me/Erlan2710)
